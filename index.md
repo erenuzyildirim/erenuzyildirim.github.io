@@ -8,7 +8,7 @@ author: Furkan Eren Uzyıldırım
 
 | - | - |
 |---|---|
-| I am a PhD Student and Head Research&Teaching Assistant at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include computer vision, machine learning, image processing.| ![](/image/headshot.png){:height="720px" width="1200px"} |
+| I am a PhD Student and Head Research&Teaching Assistant at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include computer vision, machine learning and image processing.| ![](/image/headshot.png){:height="720px" width="1200px"} |
 
 [Google Scholar](https://scholar.google.com.tr/citations?user=cYWJfPoAAAAJ&hl=en)  
 [GitHub](https://github.com/erenuzyildirim)  
