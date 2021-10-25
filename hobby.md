@@ -14,14 +14,9 @@ author: Furkan Eren Uzyıldırım
 [GitHub](https://github.com/erenuzyildirim)  
 
 [Publications](https://erenuzyildirim.github.io/index.html)  
-[Hobby](https://erenuzyildirim.github.io/hobby.html)  
 [Experience](https://erenuzyildirim.github.io/experience.html)  
 
 ---
 
-### Hobbies  
 
-#### Sports
-
-Altınordu 
 
