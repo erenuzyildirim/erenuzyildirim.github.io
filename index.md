@@ -128,7 +128,7 @@ Uzyıldırım, FE., "Keypoint matching based on descriptor statistics", 2016, M.
 
 2015-16 Fall Term
 
-#### Network Design \& Management:
+#### Network Design & Management:
 
 2014-15 Spring Term
 
