@@ -32,9 +32,9 @@ Uzyıldırım FE., Özuysal M., "Instance detection by keypoint matching beyond 
 #### National Conference Papers
 
 
-Koksal A., Uzyıldırım FE., Özuysal M., "Robust Keypoint Matching for Three Dimensional Scenes and Object Recognition", 25th Signal Processing and Communications Applications Conference (SIU), 2017, Antalya, Turkey [[pdf]](Robust_Keypoint_MatchingforThree DimensionalScenesandObjectRecognition.pdf)
+Koksal A., Uzyıldırım FE., Özuysal M., "Robust Keypoint Matching for Three Dimensional Scenes and Object Recognition", 25th Signal Processing and Communications Applications Conference (SIU), 2017, Antalya, Turkey [[pdf]](/paper/Robust_Keypoint_MatchingforThree DimensionalScenesandObjectRecognition.pdf)
 
-Uzyıldırım FE., Koksal A., Özuysal M., "A detailed analysis of MSER and FAST repeatibility", 23nd Signal Processing and Communications Applications Conference (SIU), 2015, Malatya, Turkey [[pdf]](/paper/2A_detailed_analysis_of_MSER_and_FAST_repeatibility.pdf)
+Uzyıldırım FE., Koksal A., Özuysal M., "A detailed analysis of MSER and FAST repeatibility", 23nd Signal Processing and Communications Applications Conference (SIU), 2015, Malatya, Turkey [[pdf]](/paper/A_detailed_analysis_of_MSER_and_FAST_repeatibility.pdf)
 
 
 
